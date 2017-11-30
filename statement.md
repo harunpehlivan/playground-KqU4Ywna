@@ -4,10 +4,10 @@ Are you looking for a way to use Word automation? Want to deal with Word documen
 
 After going through this tip, you can tell:
 
-1 What is Open XML
-2 Why to use Open XML
-3 How to use OpenXML to create Word documents using C# and OpenXML API
-4 Create Word table using OpenXML and C#
+1. What is Open XML
+2. Why to use Open XML
+3. How to use OpenXML to create Word documents using C# and OpenXML API
+4. Create Word table using OpenXML and C#
 
 ## Background
 I have seen many developers struggling to deal with Word documents programmatically, There are couple of ways to deal with Word documents:
