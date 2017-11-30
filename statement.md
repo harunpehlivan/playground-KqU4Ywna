@@ -19,8 +19,8 @@ I have seen many developers struggling to deal with Word documents programmatica
 
 #### Things We Need
 
-!(Word)[https://www.codeproject.com/KB/cs/994905/docx.jpg]
-!(openXML)[https://www.codeproject.com/KB/cs/994905/OpenXML.jpg]
+![Word](https://www.codeproject.com/KB/cs/994905/docx.jpg)
+![openXML](https://www.codeproject.com/KB/cs/994905/OpenXML.jpg)
 
 Before starting with the OpenXML cooking, we need the following things to be ready with us:
 
