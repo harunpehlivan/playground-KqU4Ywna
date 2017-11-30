@@ -38,7 +38,7 @@ Now a days, DOCX files are getting popular day by day, due to them being very li
 3 As it is light weight, the processing is faster than interop objects
 4 It has good Interoprability, Backwards Compatibility and Programmability
 5 As it is Smaller File Size, it is to manage all variety of document stores, including Exchange servers, SharePoint, and of course network file storage.
-6 It’s a IS29500 standard, free for all to use, and extremely well documented
+6 It's a IS29500 standard, free for all to use, and extremely well documented
 
 *Do you know You can unzip DOCX file*
 
@@ -134,28 +134,5 @@ Following are the referral links for OpenXML:
 OpenXML is not a single cup of tea, I am continuing with a different assignment on OpenXML in the next version of this article. Till then, enjoy this stuff. Suggestions and queries are always welcome.
 
 Thanks
+
 Prasad
-
-This C# template lets you get started quickly with a simple one-page playground.
-
-```C# runnable
-// { autofold
-using System;
-
-class Hello 
-{
-    static void Main() 
-    {
-// }
-
-Console.WriteLine("Hello World!");
-
-// { autofold
-    }
-}
-// }
-```
-
-# Advanced usage
-
-If you want a more complex example (external libraries, viewers...), use the [Advanced C# template](https://tech.io/select-repo/386)
