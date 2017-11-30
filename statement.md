@@ -25,7 +25,7 @@ I have seen many developers struggling to deal with Word documents programmatica
 Before starting with the OpenXML cooking, we need the following things to be ready with us:
 
 1. C# Visual Studio (2005+ version)
-2. OpenXML API (can be downloaded from here (Open XML SDK 2.5 for Microsoft Office)[http://www.microsoft.com/en-in/download/details.aspx?id=30425])
+2. OpenXML API (can be downloaded from here [Open XML SDK 2.5 for Microsoft Office](http://www.microsoft.com/en-in/download/details.aspx?id=30425))
 That's it. (*Wow!!! No word installation needed*)
 
 #### Getting Started with OpenXML
@@ -111,7 +111,7 @@ Now try to unzip that Docx file, you will get below folder structure, you will g
 
 Open Word folder and check document.xml. You will see the below snap:
 
-!(document)[https://www.codeproject.com/KB/cs/994905/OpenXML_Structure.jpg]
+![document](https://www.codeproject.com/KB/cs/994905/OpenXML_Structure.jpg)
 
 In the above image, you can see *<w:body>* represents MainBody of the document, *<w:p>* is the paragraph element, *<w:r>* is the run element, *<w:t>* is the text element.
 
@@ -125,9 +125,9 @@ OpenXML is really an amazing thing, it fluently works with spreadsheets, charts,
 
 Following are the referral links for OpenXML:
 
-- (OpenXML1)[https://msdn.microsoft.com/EN-US/library/office/bb456488.aspx]
-- (OpenXML2)[https://msdn.microsoft.com/EN-US/library/office/bb456487.aspx]
-- (OpenXML3)[http://blogs.msdn.com/b/ericwhite/archive/2008/10/20/eric-white-s-blog-s-table-of-contents.aspx]
+- [OpenXML1](https://msdn.microsoft.com/EN-US/library/office/bb456488.aspx)
+- [OpenXML2](https://msdn.microsoft.com/EN-US/library/office/bb456487.aspx)
+- [OpenXML3](http://blogs.msdn.com/b/ericwhite/archive/2008/10/20/eric-white-s-blog-s-table-of-contents.aspx)
 
 *Finally*
 
