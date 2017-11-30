@@ -46,7 +46,7 @@ Do you know you can unzip DOCX file? DOCX is the combination of several well str
 
 See the below image to know the different XML parts:
 
-!(Parts)[https://www.codeproject.com/KB/cs/994905/TypicalDocument.jpg]
+![Parts](https://www.codeproject.com/KB/cs/994905/TypicalDocument.jpg)
 
 Body is the main part of the document and it has many different parts as shown in the above figure.
 
